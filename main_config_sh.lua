@@ -1138,7 +1138,7 @@ imperium_specializations = {
                     name = "T-72",
                     entityname = "sw_t72b3",
                     description = "Deploy a formidable heavy tank for armored support.",
-                    price = 1000
+                    price = 1750
                 },
                 {
                     name = "T-34",
@@ -1150,7 +1150,7 @@ imperium_specializations = {
                     name = "T-62",
                     entityname = "lvs_wheeldrive_t62",
                     description = "Less powerful than the T-72, but still formidable.",
-                    price = 750
+                    price = 1000
                 },
                 {
                     name = "Tiger",
@@ -1185,7 +1185,7 @@ imperium_specializations = {
                     name = "Leopard",
                     entityname = "sw_leo2a4",
                     description = "The West German Tank that shall destroy all, with speed and power. It is the best tank in the game.",
-                    price = 1000
+                    price = 1750
                 },
                 {
                     name = "Tiger",
