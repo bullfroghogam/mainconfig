@@ -567,6 +567,15 @@ DivisionTypes = {
                     }
                 }
             },
+	            vehicles = {
+                    {
+                        name = "Willys MB",
+                        entityname = "sim_fphys_codww2jeep",
+                        description = "The Iconic Willys Jeep. 3 Seats.",
+                        type = "Small Vehicles"
+                    }
+                }
+            },
             {
                 Name = "Flamethrower",
                 Core = true,
@@ -679,6 +688,15 @@ DivisionTypes = {
                     }
                 }
             },
+	            vehicles = {
+                    {
+                        name = "Kübelwagen",
+                        entityname = "codww2kubel",
+                        description = "The Kübelwagen. 4 Seats. Simple, Reliable Utility.",
+                        type = "Small Vehicles"
+                    }
+                }
+            },
             {
                 Name = "Flammenwerfer",
                 Core = true,
@@ -788,6 +806,15 @@ DivisionTypes = {
                         entityname = "universal_ammo_small",
                         description = "10 Uses. HANDLE WITH CARE: VERY EXPLOSIVE",
                         type = "Ammo"
+                    }
+                }
+            },
+ 	            vehicles = {
+                    {
+                        name = "Kübelwagen",
+                        entityname = "codww2kubel",
+                        description = "The Kübelwagen. 4 Seats. Simple, Reliable Utility.",
+                        type = "Small Vehicles"
                     }
                 }
             },
@@ -906,6 +933,15 @@ DivisionTypes = {
                     }
                 }
             },
+	            vehicles = {
+                    {
+                        name = "Kübelwagen",
+                        entityname = "codww2kubel",
+                        description = "The Kübelwagen. 4 Seats. Simple, Reliable Utility.",
+                        type = "Small Vehicles"
+                    }
+                }
+            },
             {
                 Name = "Artillery",
                 Core = true,
@@ -1015,6 +1051,15 @@ DivisionTypes = {
                         entityname = "universal_ammo_small",
                         description = "10 Uses. HANDLE WITH CARE: VERY EXPLOSIVE",
                         type = "Ammo"
+                    }
+                }
+            },
+	            vehicles = {
+                    {
+                        name = "Willys MB",
+                        entityname = "sim_fphys_codww2jeep",
+                        description = "The Iconic Willys Jeep. 3 Seats.",
+                        type = "Small Vehicles"
                     }
                 }
             },
