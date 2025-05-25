@@ -115,7 +115,7 @@ RESPAWN_TIMERS_IMPERIUMRP = {
     ["Small Vehicles"] = 75,
     ["Trucks"] = 60,
     ["Tank Destroyers"] = 800,
-    ["Light Tanks"] = 450,
+    ["Light Tanks"] = 400,
     ["Medium Tanks"] = 900,
     ["Heavy Tanks"] = 1800,
     ["Mechanized Vehicles"] = 240,
@@ -601,10 +601,22 @@ DivisionTypes = {
                 Prefix = "TK",
                 vehicles = {
                     {
-                        name = "test",
-                        entityname = "Jeep",
-                        description = "test",
-                        price = 0
+                        name = "M10 Wolverine",
+                        entityname = "m_10",
+                        description = "Open-top tank destroyer. Fast, lightly armored, 3-inch gun.",
+                        type = "Tank Destroyers"
+                    },
+                    {
+                        name = "M4A1 Sherman",
+                        entityname = "m_4rp",
+                        description = "Rounded hull. Versatile medium tank. 75mm gun.",
+                        type = "Medium Tanks"
+                    },
+                    {
+                        name = "M4A3E2 Jumbo",
+                        entityname = "m4a_3_jumborp",
+                        description = "Heavily armored Sherman variant. Slow, tough, 76mm gun.",
+                        type = "Heavy Tanks"
                     }
                 }
             },
@@ -722,10 +734,22 @@ DivisionTypes = {
                 Prefix = "TK",
                 vehicles = {
                     {
-                        name = "test",
-                        entityname = "Jeep",
-                        description = "test",
-                        price = 0
+                        name = "Panzer 38t",
+                        entityname = "pz-38t",
+                        description = "Light tank of Czech origin. Early war service. 37mm gun.",
+                        type = "Light Tanks"
+                    },
+                    {
+                        name = "Panzer 4H",
+                        entityname = "pz-4Hrp",
+                        description = "Workhorse medium tank. Armor skirts. 75mm high-velocity gun.",
+                        type = "Medium Tanks"
+                    },
+                    {
+                        name = "Tiger H",
+                        entityname = "pz-6rp",
+                        description = "Iconic heavy tank. Thick armor. Powerful 88mm gun.",
+                        type = "Heavy Tanks"
                     }
                 }
             },
