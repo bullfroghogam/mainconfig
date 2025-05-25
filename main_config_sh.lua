@@ -629,10 +629,22 @@ DivisionTypes = {
                 Prefix = "LOGI",
                 vehicles = {
                     {
-                        name = "test",
-                        entityname = "Jeep",
-                        description = "test",
-                        price = 0
+                        name = "GMC Truck",
+                        entityname = "simfphys_cbww2_cckw6x6",
+                        description = "Deuce and a Half. 6x6 transport. Backbone of logistics.",
+                        type = "Trucks"
+                    },
+                    {
+                        name = "Willys Jeep",
+                        entityname = "sim_fphys_codww2jeep",
+                        description = "Iconic 4x4. Fast, nimble, reliable across any terrain.",
+                        type = "Small Vehicles"
+                    },
+                    {
+                        name = "Dodge WC54",
+                        entityname = "wc54",
+                        description = "Command car. Light utility with winch. Used by officers.",
+                        type = "Trucks"
                     }
                 }
             }
@@ -762,10 +774,22 @@ DivisionTypes = {
                 Prefix = "LOGI",
                 vehicles = {
                     {
-                        name = "test",
-                        entityname = "Jeep",
-                        description = "test",
-                        price = 0
+                        name = "GMC Truck",
+                        entityname = "simfphys_cbww2_cckw6x6",
+                        description = "Deuce and a Half. 6x6 transport. Backbone of logistics.",
+                        type = "Trucks"
+                    },
+                    {
+                        name = "Willys Jeep",
+                        entityname = "sim_fphys_codww2jeep",
+                        description = "Iconic 4x4. Fast, nimble, reliable across any terrain.",
+                        type = "Small Vehicles"
+                    },
+                    {
+                        name = "Dodge WC54",
+                        entityname = "wc54",
+                        description = "Command car. Light utility with winch. Used by officers.",
+                        type = "Trucks"
                     }
                 }
             }
@@ -883,10 +907,22 @@ DivisionTypes = {
                 Prefix = "LOGI",
                 vehicles = {
                     {
-                        name = "test",
-                        entityname = "Jeep",
-                        description = "test",
-                        price = 0
+                        name = "Opel Blitz",
+                        entityname = "sim_fphy_codww2opel",
+                        description = "Standard German army truck. Versatile transport. 3-ton payload.",
+                        type = "Trucks"
+                    },
+                    {
+                        name = "Kübelwagen",
+                        entityname = "codww2kubel",
+                        description = "Light utility car. Simple, air-cooled, rear-wheel drive.",
+                        type = "Small Vehicles"
+                    },
+                    {
+                        name = "Sdkfz 10",
+                        entityname = "codww2sdkfz10",
+                        description = "Half-track prime mover. Light towing. Room for troops.",
+                        type = "Trucks"
                     }
                 }
             }
@@ -1007,10 +1043,22 @@ DivisionTypes = {
                 Prefix = "MECH",
                 vehicles = {
                     {
-                        name = "test",
-                        entityname = "Jeep",
-                        description = "test",
-                        price = 0
+                        name = "Opel Blitz",
+                        entityname = "sim_fphy_codww2opel",
+                        description = "Standard German army truck. Versatile transport. 3-ton payload.",
+                        type = "Trucks"
+                    },
+                    {
+                        name = "Kübelwagen",
+                        entityname = "codww2kubel",
+                        description = "Light utility car. Simple, air-cooled, rear-wheel drive.",
+                        type = "Small Vehicles"
+                    },
+                    {
+                        name = "Sdkfz 10",
+                        entityname = "codww2sdkfz10",
+                        description = "Half-track prime mover. Light towing. Room for troops.",
+                        type = "Trucks"
                     }
                 }
             }
@@ -1128,10 +1176,22 @@ DivisionTypes = {
                 Prefix = "LOGI",
                 vehicles = {
                     {
-                        name = "test",
-                        entityname = "Jeep",
-                        description = "test",
-                        price = 0
+                        name = "GMC Truck",
+                        entityname = "simfphys_cbww2_cckw6x6",
+                        description = "Deuce and a Half. 6x6 transport. Backbone of logistics.",
+                        type = "Trucks"
+                    },
+                    {
+                        name = "Willys Jeep",
+                        entityname = "sim_fphys_codww2jeep",
+                        description = "Iconic 4x4. Fast, nimble, reliable across any terrain.",
+                        type = "Small Vehicles"
+                    },
+                    {
+                        name = "Dodge WC54",
+                        entityname = "wc54",
+                        description = "Command car. Light utility with winch. Used by officers.",
+                        type = "Trucks"
                     }
                 }
             }
