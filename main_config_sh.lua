@@ -496,11 +496,30 @@ DivisionTypes = {
                 Prefix = "MECH",
                 Vehicles = {
                     {
-                        name = "test",
-                        entityname = "Jeep",
-                        description = "test",
-                        type = "dsad"
+                        name = "GMC Truck",
+                        entityname = "simfphys_cbww2_cckw6x6",
+                        description = "Deuce and a Half. 6x6 transport. Backbone of logistics.",
+                        type = "Trucks"
+                    },
+                    {
+                        name = "Willys Jeep",
+                        entityname = "sim_fphys_codww2jeep",
+                        description = "Iconic 4x4. Fast, nimble, reliable across any terrain.",
+                        type = "Small Vehicles"
+                    },
+                    {
+                        name = "Dodge WC54",
+                        entityname = "wc54",
+                        description = "Command car. Light utility with winch. Used by officers.",
+                        type = "Trucks"
+                    },
+                    {
+                        name = "M3 Scout Car",
+                        entityname = "m3scout",
+                        description = "Mechanized Half Track with a mounted 30 cal.",
+                        type = "Mechanized Vehicles"
                     }
+
                 }
             }
         }
