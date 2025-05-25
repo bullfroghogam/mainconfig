@@ -112,12 +112,14 @@ combat_phase = 2700
 ORGANIZATION_MULTIPLIER = 0.5
 
 RESPAWN_TIMERS_IMPERIUMRP = {
-    ["Small Vehicles"] = 60,
-    ["Light Tanks"] = 120,
-    ["Medium Tanks"] = 300,
-    ["Heavy Tanks"] = 600,
-    ["Mechanized Vehicles"] = 300,
-    ["Outpost Half Track"] = 60
+    ["Small Vehicles"] = 75,
+    ["Trucks"] = 60,
+    ["Tank Destroyers"] = 800,
+    ["Light Tanks"] = 450,
+    ["Medium Tanks"] = 900,
+    ["Heavy Tanks"] = 1800,
+    ["Mechanized Vehicles"] = 240,
+    ["Outpost Half Track"] = 900
 }
 
 ENTITY_RESPAWN_TIMERS = {
